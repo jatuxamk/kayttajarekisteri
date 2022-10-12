@@ -1,0 +1,2 @@
+# kayttajarekisteri
+Yhteiskoodausprojektin startterikoodit.
