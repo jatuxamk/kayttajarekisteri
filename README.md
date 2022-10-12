@@ -16,3 +16,5 @@ Tehtävänäsi on osallistua projektiin toteuttamalla sovellukseen **joko** lis�
   * käsitellään käyttöliittymässä MUI:n Dialogi-komponentilla. Esim. poistoista kysytään vahvistus omassa dialogissaan
 * Käyttöliittymässä sovelletaan MUI-komponentteja. Ulkoasun tulisi säilyä yhtenäisenä eri näkymien välillä.
 * App- tai Kayttajalista-komponentteja tai Store-hakemistossa olevia Redux-määrityksiä voi (ja täytyy) muokata. Ole kuitenkin tarkkana yhdistämiskonfliktien varalta!
+
+Tiimityöskentelyn ja projektinhallinnan vaatimukset ovat esitelty tehtävänannossa.
