@@ -1,2 +1,3 @@
-# kayttajarekisteri
+# Käyttäjät-CRUD
+
 Yhteiskoodausprojektin startterikoodit.
