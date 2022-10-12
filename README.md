@@ -7,7 +7,7 @@ Tässä repositoriossa on React/Redux -projekti käyttäjähallintasovelluksesta
 * Kayttajalista-komponentti, joka tulostaa Redux-storessa olevan sisällön
 * Käyttöliittymäelementit (ikoni-napit) lisäys-, muokkaus- tai poistotoiminnallisuuksien käynnistämiseen
 
-Tehtävänäsi on osallistua projektiin toteuttamalla sovellukseesn **joko** lisäys-, muokkaus- **tai** poistotoiminnallisuus. **Vain yksi toiminnallisuus/tiimin jäsen**.
+Tehtävänäsi on osallistua projektiin toteuttamalla sovellukseen **joko** lisäys-, muokkaus- **tai** poistotoiminnallisuus. **Vain yksi toiminnallisuus/tiimin jäsen**.
 
 ### Vaatimukset ja rajoitteet tekniseen toteukseen:
 
