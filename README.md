@@ -9,7 +9,7 @@ Tässä repositoriossa on React/Redux -projekti käyttäjähallintasovelluksesta
 
 Tehtävänäsi on osallistua projektiin toteuttamalla sovellukseesn **joko** lisäys-, muokkaus- **tai** poistotoiminnallisuus. **Vain yksi toiminnallisuus/tiimin jäsen**.
 
-##Vaatimukset ja rajoitteet tekniseen toteukseen:
+### Vaatimukset ja rajoitteet tekniseen toteukseen:
 
 * Jokainen toiminnallisuus (lisäys, muokkaus, poisto): 
   * toteututaan omana React-komponenttinaan
