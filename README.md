@@ -14,5 +14,5 @@ Tehtävänäsi on osallistua projektiin toteuttamalla sovellukseen **joko** lis�
 * Jokainen toiminnallisuus (lisäys, muokkaus, poisto): 
   * toteututaan omana React-komponenttinaan
   * käsitellään käyttöliittymässä MUI:n Dialogi-komponentilla. Esim. poistoista kysytään vahvistus omassa dialogissaan
-* Käyttöliittymässä sovelletaan MUI-komponentteja sekä Material Icons -ikoneita. Ulkoasun tulisi säilyä yhtenäisenä eri näkymien välillä.
+* Käyttöliittymässä sovelletaan MUI-komponentteja. Ulkoasun tulisi säilyä yhtenäisenä eri näkymien välillä.
 * App- tai Kayttajalista-komponentteja tai Store-hakemistossa olevia Redux-määrityksiä voi (ja täytyy) muokata. Ole kuitenkin tarkkana yhdistämiskonfliktien varalta!
