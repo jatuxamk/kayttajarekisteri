@@ -1,6 +1,6 @@
 # Käyttäjät-CRUD
 
-Tässä repositoriossa on React/Redux -projekti käyttäjähallintasovelluksesta. Sovellukseen on jo toteutettu:
+Tässä repositoriossa on React/Redux-projekti käyttäjähallintasovelluksesta. Sovellukseen on jo toteutettu:
 
 * Redux-store ja Kayttajat-slice oletussisältöineen
 * Kayttaja-interface
